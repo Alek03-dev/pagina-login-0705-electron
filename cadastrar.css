@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+body{
+    height: 100vh; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+
+div{
+    background-color: palegreen; 
+    padding: 64px; 
+    font-family: Arial;
+
+    max-width: 480px;
+    border-radius: 35px;
+}
+
+label{
+    font-weight: bold;
+}
